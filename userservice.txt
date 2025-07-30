@@ -1,2 +1,4 @@
 get the user data....
 read the values
+
+create an avator for user..
